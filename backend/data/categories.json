@@ -1,0 +1,3764 @@
+{
+  "updatedAt": "2026-01-31T18:55:32.494Z",
+  "categories": [
+    {
+      "id": "auto-rad-and-boot",
+      "name": "Auto, Rad & Boot",
+      "url": "",
+      "children": [
+        {
+          "id": "autos",
+          "name": "Autos",
+          "url": "",
+          "children": [
+            {
+              "id": "gebrauchtwagen",
+              "name": "Gebrauchtwagen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "oldtimer",
+              "name": "Oldtimer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "youngtimer",
+              "name": "Youngtimer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-autos",
+              "name": "Weitere Autos",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "autoteile-and-reifen",
+          "name": "Autoteile & Reifen",
+          "url": "",
+          "children": [
+            {
+              "id": "auto-hifi-and-navigation",
+              "name": "Auto Hifi & Navigation",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "ersatz-and-reparaturteile",
+              "name": "Ersatz- & Reparaturteile",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "reifen-and-felgen",
+              "name": "Reifen & Felgen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tuning-and-styling",
+              "name": "Tuning & Styling",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "werkzeug",
+              "name": "Werkzeug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-autoteile",
+              "name": "Weitere Autoteile",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "boote-and-bootszubeh-r",
+          "name": "Boote & Bootszubehör",
+          "url": "",
+          "children": [
+            {
+              "id": "boote",
+              "name": "Boote",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "motoren",
+              "name": "Motoren",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "trailer",
+              "name": "Trailer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-boote",
+              "name": "Weitere Boote",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fahrr-der-and-zubeh-r",
+          "name": "Fahrräder & Zubehör",
+          "url": "",
+          "children": [
+            {
+              "id": "fahrr-der",
+              "name": "Fahrräder",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "e-bikes",
+              "name": "E-Bikes",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "fahrradteile",
+              "name": "Fahrradteile",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-fahrr-der",
+              "name": "Weitere Fahrräder",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "motorr-der-and-motorroller",
+          "name": "Motorräder & Motorroller",
+          "url": "",
+          "children": [
+            {
+              "id": "motorr-der",
+              "name": "Motorräder",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "roller",
+              "name": "Roller",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "quads",
+              "name": "Quads",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "cross-enduro",
+              "name": "Cross/Enduro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-motorr-der",
+              "name": "Weitere Motorräder",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "motorradteile-and-zubeh-r",
+          "name": "Motorradteile & Zubehör",
+          "url": "",
+          "children": [
+            {
+              "id": "ersatzteile",
+              "name": "Ersatzteile",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bekleidung",
+              "name": "Bekleidung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "helme",
+              "name": "Helme",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-motorradteile",
+              "name": "Weitere Motorradteile",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "nutzfahrzeuge-and-anh-nger",
+          "name": "Nutzfahrzeuge & Anhänger",
+          "url": "",
+          "children": [
+            {
+              "id": "transporter",
+              "name": "Transporter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "anh-nger",
+              "name": "Anhänger",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "traktoren",
+              "name": "Traktoren",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "baumaschinen",
+              "name": "Baumaschinen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-nutzfahrzeuge",
+              "name": "Weitere Nutzfahrzeuge",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "reparaturen-and-dienstleistungen",
+          "name": "Reparaturen & Dienstleistungen",
+          "url": "",
+          "children": [
+            {
+              "id": "werkst-tten",
+              "name": "Werkstätten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gutachten",
+              "name": "Gutachten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege-and-aufbereitung",
+              "name": "Pflege & Aufbereitung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "transport",
+              "name": "Transport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-services",
+              "name": "Weitere Services",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "wohnwagen-and-mobile",
+          "name": "Wohnwagen & -mobile",
+          "url": "",
+          "children": [
+            {
+              "id": "wohnwagen",
+              "name": "Wohnwagen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "wohnmobile",
+              "name": "Wohnmobile",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "stellpl-tze",
+              "name": "Stellplätze",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-wohnwagen",
+              "name": "Weitere Wohnwagen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weiteres-auto-rad-and-boot",
+          "name": "Weiteres Auto, Rad & Boot",
+          "url": "",
+          "children": [
+            {
+              "id": "sammlerfahrzeuge",
+              "name": "Sammlerfahrzeuge",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "immobilien",
+      "name": "Immobilien",
+      "url": "",
+      "children": [
+        {
+          "id": "eigentumswohnungen",
+          "name": "Eigentumswohnungen",
+          "url": "",
+          "children": [
+            {
+              "id": "neubau",
+              "name": "Neubau",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bestand",
+              "name": "Bestand",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kapitalanlage",
+              "name": "Kapitalanlage",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "penthouse",
+              "name": "Penthouse",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-eigentumswohnungen",
+              "name": "Weitere Eigentumswohnungen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "h-user-zum-kauf",
+          "name": "Häuser zum Kauf",
+          "url": "",
+          "children": [
+            {
+              "id": "einfamilienhaus",
+              "name": "Einfamilienhaus",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "mehrfamilienhaus",
+              "name": "Mehrfamilienhaus",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "reihenhaus",
+              "name": "Reihenhaus",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bungalow",
+              "name": "Bungalow",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-h-user",
+              "name": "Weitere Häuser",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "mietwohnungen",
+          "name": "Mietwohnungen",
+          "url": "",
+          "children": [
+            {
+              "id": "1-zimmer",
+              "name": "1 Zimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "2-zimmer",
+              "name": "2 Zimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "3-zimmer",
+              "name": "3 Zimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "4-zimmer",
+              "name": "4+ Zimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-mietwohnungen",
+              "name": "Weitere Mietwohnungen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "h-user-zur-miete",
+          "name": "Häuser zur Miete",
+          "url": "",
+          "children": [
+            {
+              "id": "einfamilienhaus",
+              "name": "Einfamilienhaus",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "reihenhaus",
+              "name": "Reihenhaus",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "doppelhaush-lfte",
+              "name": "Doppelhaushälfte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bungalow",
+              "name": "Bungalow",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-miet-h-user",
+              "name": "Weitere Miet-Häuser",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ferienwohnungen",
+          "name": "Ferienwohnungen",
+          "url": "",
+          "children": [
+            {
+              "id": "inland",
+              "name": "Inland",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "ausland",
+              "name": "Ausland",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "apartment",
+              "name": "Apartment",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "ferienhaus",
+              "name": "Ferienhaus",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-ferienwohnungen",
+              "name": "Weitere Ferienwohnungen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "gewerbeimmobilien",
+          "name": "Gewerbeimmobilien",
+          "url": "",
+          "children": [
+            {
+              "id": "b-ro",
+              "name": "Büro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "laden",
+              "name": "Laden",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "halle-lager",
+              "name": "Halle/Lager",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gastronomie",
+              "name": "Gastronomie",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-gewerbeimmobilien",
+              "name": "Weitere Gewerbeimmobilien",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "grundst-cke",
+          "name": "Grundstücke",
+          "url": "",
+          "children": [
+            {
+              "id": "baugrundst-cke",
+              "name": "Baugrundstücke",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "landwirtschaft",
+              "name": "Landwirtschaft",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gewerbe",
+              "name": "Gewerbe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "freizeit",
+              "name": "Freizeit",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-grundst-cke",
+              "name": "Weitere Grundstücke",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "immobilienservice",
+          "name": "Immobilienservice",
+          "url": "",
+          "children": [
+            {
+              "id": "makler",
+              "name": "Makler",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hausverwaltung",
+              "name": "Hausverwaltung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "finanzierung",
+              "name": "Finanzierung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bewertung",
+              "name": "Bewertung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-services",
+              "name": "Weitere Services",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haus-and-garten",
+      "name": "Haus & Garten",
+      "url": "",
+      "children": [
+        {
+          "id": "m-bel-and-wohnen",
+          "name": "Möbel & Wohnen",
+          "url": "",
+          "children": [
+            {
+              "id": "schlafzimmer",
+              "name": "Schlafzimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "wohnzimmer",
+              "name": "Wohnzimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "esszimmer",
+              "name": "Esszimmer",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "b-ro",
+              "name": "Büro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-m-bel",
+              "name": "Weitere Möbel",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "haushalt",
+          "name": "Haushalt",
+          "url": "",
+          "children": [
+            {
+              "id": "k-chenzubeh-r",
+              "name": "Küchenzubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "reinigung",
+              "name": "Reinigung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "w-sche",
+              "name": "Wäsche",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bad",
+              "name": "Bad",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-haushalt",
+              "name": "Weitere Haushalt",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "garten-and-pflanzen",
+          "name": "Garten & Pflanzen",
+          "url": "",
+          "children": [
+            {
+              "id": "gartenm-bel",
+              "name": "Gartenmöbel",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflanzen",
+              "name": "Pflanzen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "teich",
+              "name": "Teich",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gartenwerkzeuge",
+              "name": "Gartenwerkzeuge",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-garten",
+              "name": "Weitere Garten",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "heimwerken",
+          "name": "Heimwerken",
+          "url": "",
+          "children": [
+            {
+              "id": "baumaterial",
+              "name": "Baumaterial",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "werkzeug",
+              "name": "Werkzeug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "maschinen",
+              "name": "Maschinen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sanit-r",
+              "name": "Sanitär",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-heimwerken",
+              "name": "Weitere Heimwerken",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dekoration",
+          "name": "Dekoration",
+          "url": "",
+          "children": [
+            {
+              "id": "bilder-and-rahmen",
+              "name": "Bilder & Rahmen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kerzen-and-lampen",
+              "name": "Kerzen & Lampen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "textilien",
+              "name": "Textilien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "vasen",
+              "name": "Vasen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-deko",
+              "name": "Weitere Deko",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "k-chen",
+          "name": "Küchen",
+          "url": "",
+          "children": [
+            {
+              "id": "einbauk-chen",
+              "name": "Einbauküchen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "k-chenger-te",
+              "name": "Küchengeräte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sp-len",
+              "name": "Spülen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "arbeitsplatten",
+              "name": "Arbeitsplatten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-k-chen",
+              "name": "Weitere Küchen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "lampen-and-licht",
+          "name": "Lampen & Licht",
+          "url": "",
+          "children": [
+            {
+              "id": "deckenlampen",
+              "name": "Deckenlampen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "stehlampen",
+              "name": "Stehlampen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tischlampen",
+              "name": "Tischlampen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "au-enleuchten",
+              "name": "Außenleuchten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-lampen",
+              "name": "Weitere Lampen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weitere-haus-and-garten",
+          "name": "Weitere Haus & Garten",
+          "url": "",
+          "children": [
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mode-and-beauty",
+      "name": "Mode & Beauty",
+      "url": "",
+      "children": [
+        {
+          "id": "damenbekleidung",
+          "name": "Damenbekleidung",
+          "url": "",
+          "children": [
+            {
+              "id": "kleider",
+              "name": "Kleider",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "jacken",
+              "name": "Jacken",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hosen",
+              "name": "Hosen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pullover",
+              "name": "Pullover",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-damenmode",
+              "name": "Weitere Damenmode",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "herrenbekleidung",
+          "name": "Herrenbekleidung",
+          "url": "",
+          "children": [
+            {
+              "id": "jacken",
+              "name": "Jacken",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hosen",
+              "name": "Hosen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hemden",
+              "name": "Hemden",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "anz-ge",
+              "name": "Anzüge",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-herrenmode",
+              "name": "Weitere Herrenmode",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "schuhe",
+          "name": "Schuhe",
+          "url": "",
+          "children": [
+            {
+              "id": "damenschuhe",
+              "name": "Damenschuhe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "herrenschuhe",
+              "name": "Herrenschuhe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kinderschuhe",
+              "name": "Kinderschuhe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sportschuhe",
+              "name": "Sportschuhe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-schuhe",
+              "name": "Weitere Schuhe",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "taschen-and-accessoires",
+          "name": "Taschen & Accessoires",
+          "url": "",
+          "children": [
+            {
+              "id": "handtaschen",
+              "name": "Handtaschen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "rucks-cke",
+              "name": "Rucksäcke",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "geldb-rsen",
+              "name": "Geldbörsen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "g-rtel",
+              "name": "Gürtel",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-accessoires",
+              "name": "Weitere Accessoires",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "schmuck",
+          "name": "Schmuck",
+          "url": "",
+          "children": [
+            {
+              "id": "ketten",
+              "name": "Ketten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "ringe",
+              "name": "Ringe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "ohrringe",
+              "name": "Ohrringe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "armb-nder",
+              "name": "Armbänder",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiterer-schmuck",
+              "name": "Weiterer Schmuck",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "beauty-and-pflege",
+          "name": "Beauty & Pflege",
+          "url": "",
+          "children": [
+            {
+              "id": "kosmetik",
+              "name": "Kosmetik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "parfum",
+              "name": "Parfum",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "haarpflege",
+              "name": "Haarpflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "nagelpflege",
+              "name": "Nagelpflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-beauty",
+              "name": "Weitere Beauty",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "uhren",
+          "name": "Uhren",
+          "url": "",
+          "children": [
+            {
+              "id": "damenuhren",
+              "name": "Damenuhren",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "herrenuhren",
+              "name": "Herrenuhren",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "smartwatches",
+              "name": "Smartwatches",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "vintage",
+              "name": "Vintage",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-uhren",
+              "name": "Weitere Uhren",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weitere-mode-and-beauty",
+          "name": "Weitere Mode & Beauty",
+          "url": "",
+          "children": [
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elektronik",
+      "name": "Elektronik",
+      "url": "",
+      "children": [
+        {
+          "id": "handy-and-telefon",
+          "name": "Handy & Telefon",
+          "url": "",
+          "children": [
+            {
+              "id": "smartphones",
+              "name": "Smartphones",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "handys-ohne-vertrag",
+              "name": "Handys ohne Vertrag",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "festnetz",
+              "name": "Festnetz",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-telefone",
+              "name": "Weitere Telefone",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "computer-and-zubeh-r",
+          "name": "Computer & Zubehör",
+          "url": "",
+          "children": [
+            {
+              "id": "laptops",
+              "name": "Laptops",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pcs",
+              "name": "PCs",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "monitore",
+              "name": "Monitore",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "drucker",
+              "name": "Drucker",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiteres-computerzubeh-r",
+              "name": "Weiteres Computerzubehör",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "tv-and-audio",
+          "name": "TV & Audio",
+          "url": "",
+          "children": [
+            {
+              "id": "fernseher",
+              "name": "Fernseher",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hi-fi",
+              "name": "Hi-Fi",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "lautsprecher",
+              "name": "Lautsprecher",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "receiver",
+              "name": "Receiver",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-tv-and-audio",
+              "name": "Weitere TV & Audio",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "foto",
+          "name": "Foto",
+          "url": "",
+          "children": [
+            {
+              "id": "kameras",
+              "name": "Kameras",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "objektive",
+              "name": "Objektive",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "drohnen",
+              "name": "Drohnen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-foto",
+              "name": "Weitere Foto",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "haushaltsger-te",
+          "name": "Haushaltsgeräte",
+          "url": "",
+          "children": [
+            {
+              "id": "k-hlschrank",
+              "name": "Kühlschrank",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "waschmaschine",
+              "name": "Waschmaschine",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sp-lmaschine",
+              "name": "Spülmaschine",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kleinger-te",
+              "name": "Kleingeräte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-ger-te",
+              "name": "Weitere Geräte",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "konsolen",
+          "name": "Konsolen",
+          "url": "",
+          "children": [
+            {
+              "id": "playstation",
+              "name": "PlayStation",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "xbox",
+              "name": "Xbox",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "nintendo",
+              "name": "Nintendo",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-konsolen",
+              "name": "Weitere Konsolen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "musik-and-dj-equipment",
+          "name": "Musik & DJ-Equipment",
+          "url": "",
+          "children": [
+            {
+              "id": "instrumente",
+              "name": "Instrumente",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "dj-controller",
+              "name": "DJ-Controller",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "studio",
+              "name": "Studio",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pa",
+              "name": "PA",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-musik",
+              "name": "Weitere Musik",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weitere-elektronik",
+          "name": "Weitere Elektronik",
+          "url": "",
+          "children": [
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haustiere",
+      "name": "Haustiere",
+      "url": "",
+      "children": [
+        {
+          "id": "hunde",
+          "name": "Hunde",
+          "url": "",
+          "children": [
+            {
+              "id": "welpen",
+              "name": "Welpen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege",
+              "name": "Pflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "training",
+              "name": "Training",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-hunde",
+              "name": "Weitere Hunde",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "katzen",
+          "name": "Katzen",
+          "url": "",
+          "children": [
+            {
+              "id": "katzenzubeh-r",
+              "name": "Katzenzubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege",
+              "name": "Pflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "katzenm-bel",
+              "name": "Katzenmöbel",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "futter",
+              "name": "Futter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-katzen",
+              "name": "Weitere Katzen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kleintiere",
+          "name": "Kleintiere",
+          "url": "",
+          "children": [
+            {
+              "id": "kaninchen",
+              "name": "Kaninchen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "meerschweinchen",
+              "name": "Meerschweinchen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hamster",
+              "name": "Hamster",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kleintiere",
+              "name": "Weitere Kleintiere",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "v-gel",
+          "name": "Vögel",
+          "url": "",
+          "children": [
+            {
+              "id": "papageien",
+              "name": "Papageien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sittiche",
+              "name": "Sittiche",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "futter",
+              "name": "Futter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-v-gel",
+              "name": "Weitere Vögel",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fische",
+          "name": "Fische",
+          "url": "",
+          "children": [
+            {
+              "id": "aquarien",
+              "name": "Aquarien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "futter",
+              "name": "Futter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "teichfische",
+              "name": "Teichfische",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-fische",
+              "name": "Weitere Fische",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "reptilien",
+          "name": "Reptilien",
+          "url": "",
+          "children": [
+            {
+              "id": "terrarien",
+              "name": "Terrarien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "futter",
+              "name": "Futter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstige-reptilien",
+              "name": "Sonstige Reptilien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-reptilien",
+              "name": "Weitere Reptilien",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "tierbedarf",
+          "name": "Tierbedarf",
+          "url": "",
+          "children": [
+            {
+              "id": "futter",
+              "name": "Futter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege",
+              "name": "Pflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "transport",
+              "name": "Transport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiterer-tierbedarf",
+              "name": "Weiterer Tierbedarf",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "tierbetreuung",
+          "name": "Tierbetreuung",
+          "url": "",
+          "children": [
+            {
+              "id": "gassi-service",
+              "name": "Gassi-Service",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tierpension",
+              "name": "Tierpension",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sitter",
+              "name": "Sitter",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege",
+              "name": "Pflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-betreuung",
+              "name": "Weitere Betreuung",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "familie-kind-and-baby",
+      "name": "Familie, Kind & Baby",
+      "url": "",
+      "children": [
+        {
+          "id": "baby",
+          "name": "Baby",
+          "url": "",
+          "children": [
+            {
+              "id": "kleidung",
+              "name": "Kleidung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege",
+              "name": "Pflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "m-bel",
+              "name": "Möbel",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "spielzeug",
+              "name": "Spielzeug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-babyartikel",
+              "name": "Weitere Babyartikel",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kinderbekleidung",
+          "name": "Kinderbekleidung",
+          "url": "",
+          "children": [
+            {
+              "id": "m-dchen",
+              "name": "Mädchen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "jungen",
+              "name": "Jungen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "schuhe",
+              "name": "Schuhe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "jacken",
+              "name": "Jacken",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kinderbekleidung",
+              "name": "Weitere Kinderbekleidung",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "spielzeug",
+          "name": "Spielzeug",
+          "url": "",
+          "children": [
+            {
+              "id": "puppen",
+              "name": "Puppen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "baukl-tze",
+              "name": "Bauklötze",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "lego",
+              "name": "Lego",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "brettspiele",
+              "name": "Brettspiele",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiteres-spielzeug",
+              "name": "Weiteres Spielzeug",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kinderzimmer",
+          "name": "Kinderzimmer",
+          "url": "",
+          "children": [
+            {
+              "id": "betten",
+              "name": "Betten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "schr-nke",
+              "name": "Schränke",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "schreibtische",
+              "name": "Schreibtische",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "deko",
+              "name": "Deko",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kinderzimmer",
+              "name": "Weitere Kinderzimmer",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kinderwagen",
+          "name": "Kinderwagen",
+          "url": "",
+          "children": [
+            {
+              "id": "kinderwagen",
+              "name": "Kinderwagen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "buggys",
+              "name": "Buggys",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tragen",
+              "name": "Tragen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kinderwagen",
+              "name": "Weitere Kinderwagen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "schule",
+          "name": "Schule",
+          "url": "",
+          "children": [
+            {
+              "id": "schulranzen",
+              "name": "Schulranzen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "b-cher",
+              "name": "Bücher",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "lernmaterial",
+              "name": "Lernmaterial",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "taschen",
+              "name": "Taschen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-schule",
+              "name": "Weitere Schule",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weitere-familie",
+          "name": "Weitere Familie",
+          "url": "",
+          "children": [
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "name": "Jobs",
+      "url": "",
+      "children": [
+        {
+          "id": "vollzeit",
+          "name": "Vollzeit",
+          "url": "",
+          "children": [
+            {
+              "id": "b-ro",
+              "name": "Büro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "verkauf",
+              "name": "Verkauf",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "handwerk",
+              "name": "Handwerk",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "logistik",
+              "name": "Logistik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-vollzeitjobs",
+              "name": "Weitere Vollzeitjobs",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "teilzeit",
+          "name": "Teilzeit",
+          "url": "",
+          "children": [
+            {
+              "id": "b-ro",
+              "name": "Büro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "verkauf",
+              "name": "Verkauf",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pflege",
+              "name": "Pflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gastro",
+              "name": "Gastro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-teilzeitjobs",
+              "name": "Weitere Teilzeitjobs",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "minijobs",
+          "name": "Minijobs",
+          "url": "",
+          "children": [
+            {
+              "id": "aushilfe",
+              "name": "Aushilfe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gastro",
+              "name": "Gastro",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "lager",
+              "name": "Lager",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "reinigung",
+              "name": "Reinigung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-minijobs",
+              "name": "Weitere Minijobs",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ausbildung",
+          "name": "Ausbildung",
+          "url": "",
+          "children": [
+            {
+              "id": "kaufmann",
+              "name": "Kaufmann",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "handwerk",
+              "name": "Handwerk",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "it",
+              "name": "IT",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gesundheit",
+              "name": "Gesundheit",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-ausbildung",
+              "name": "Weitere Ausbildung",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "praktika",
+          "name": "Praktika",
+          "url": "",
+          "children": [
+            {
+              "id": "sch-ler",
+              "name": "Schüler",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "studenten",
+              "name": "Studenten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "marketing",
+              "name": "Marketing",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "it",
+              "name": "IT",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-praktika",
+              "name": "Weitere Praktika",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "nebenjob",
+          "name": "Nebenjob",
+          "url": "",
+          "children": [
+            {
+              "id": "home-office",
+              "name": "Home Office",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "lieferdienst",
+              "name": "Lieferdienst",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "promotion",
+              "name": "Promotion",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "nachhilfe",
+              "name": "Nachhilfe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-nebenjobs",
+              "name": "Weitere Nebenjobs",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "home-office",
+          "name": "Home Office",
+          "url": "",
+          "children": [
+            {
+              "id": "kundenservice",
+              "name": "Kundenservice",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "texte",
+              "name": "Texte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "vertrieb",
+              "name": "Vertrieb",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "it",
+              "name": "IT",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-home-office",
+              "name": "Weitere Home Office",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "freizeit-hobby-and-nachbarschaft",
+      "name": "Freizeit, Hobby & Nachbarschaft",
+      "url": "",
+      "children": [
+        {
+          "id": "sport-and-fitness",
+          "name": "Sport & Fitness",
+          "url": "",
+          "children": [
+            {
+              "id": "fitnessger-te",
+              "name": "Fitnessgeräte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "teamsport",
+              "name": "Teamsport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "laufsport",
+              "name": "Laufsport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "wassersport",
+              "name": "Wassersport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-sportartikel",
+              "name": "Weitere Sportartikel",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "camping-and-outdoor",
+          "name": "Camping & Outdoor",
+          "url": "",
+          "children": [
+            {
+              "id": "zelte",
+              "name": "Zelte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "schlafs-cke",
+              "name": "Schlafsäcke",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "rucks-cke",
+              "name": "Rucksäcke",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kocher",
+              "name": "Kocher",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-outdoorartikel",
+              "name": "Weitere Outdoorartikel",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "heimwerken-and-sammeln",
+          "name": "Heimwerken & Sammeln",
+          "url": "",
+          "children": [
+            {
+              "id": "sammelkarten",
+              "name": "Sammelkarten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "m-nzen",
+              "name": "Münzen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "modelle",
+              "name": "Modelle",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "werkzeug",
+              "name": "Werkzeug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-sammlungen",
+              "name": "Weitere Sammlungen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "reise-and-veranstaltungen",
+          "name": "Reise & Veranstaltungen",
+          "url": "",
+          "children": [
+            {
+              "id": "urlaub",
+              "name": "Urlaub",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "events",
+              "name": "Events",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tickets",
+              "name": "Tickets",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gutscheine",
+              "name": "Gutscheine",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-reisen",
+              "name": "Weitere Reisen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "modellbau",
+          "name": "Modellbau",
+          "url": "",
+          "children": [
+            {
+              "id": "modelleisenbahn",
+              "name": "Modelleisenbahn",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "flugzeuge",
+              "name": "Flugzeuge",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "autos",
+              "name": "Autos",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "baus-tze",
+              "name": "Bausätze",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiterer-modellbau",
+              "name": "Weiterer Modellbau",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kunst-and-antiquit-ten",
+          "name": "Kunst & Antiquitäten",
+          "url": "",
+          "children": [
+            {
+              "id": "gem-lde",
+              "name": "Gemälde",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "skulpturen",
+              "name": "Skulpturen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "antike-m-bel",
+              "name": "Antike Möbel",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sammlerst-cke",
+              "name": "Sammlerstücke",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kunst",
+              "name": "Weitere Kunst",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weitere-freizeit",
+          "name": "Weitere Freizeit",
+          "url": "",
+          "children": [
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "musik-filme-and-b-cher",
+      "name": "Musik, Filme & Bücher",
+      "url": "",
+      "children": [
+        {
+          "id": "b-cher",
+          "name": "Bücher",
+          "url": "",
+          "children": [
+            {
+              "id": "romane",
+              "name": "Romane",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sachb-cher",
+              "name": "Sachbücher",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kinderb-cher",
+              "name": "Kinderbücher",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "comics",
+              "name": "Comics",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-b-cher",
+              "name": "Weitere Bücher",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "filme",
+          "name": "Filme",
+          "url": "",
+          "children": [
+            {
+              "id": "dvd",
+              "name": "DVD",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "blu-ray",
+              "name": "Blu-ray",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "boxen",
+              "name": "Boxen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "serien",
+              "name": "Serien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-filme",
+              "name": "Weitere Filme",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "musik",
+          "name": "Musik",
+          "url": "",
+          "children": [
+            {
+              "id": "cd",
+              "name": "CD",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "vinyl",
+              "name": "Vinyl",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "instrumente",
+              "name": "Instrumente",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "zubeh-r",
+              "name": "Zubehör",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-musik",
+              "name": "Weitere Musik",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "videospiele",
+          "name": "Videospiele",
+          "url": "",
+          "children": [
+            {
+              "id": "pc",
+              "name": "PC",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "playstation",
+              "name": "PlayStation",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "xbox",
+              "name": "Xbox",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "nintendo",
+              "name": "Nintendo",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-spiele",
+              "name": "Weitere Spiele",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "zeitschriften",
+          "name": "Zeitschriften",
+          "url": "",
+          "children": [
+            {
+              "id": "magazine",
+              "name": "Magazine",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sammlungen",
+              "name": "Sammlungen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "fachzeitschriften",
+              "name": "Fachzeitschriften",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hefte",
+              "name": "Hefte",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-zeitschriften",
+              "name": "Weitere Zeitschriften",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "noten",
+          "name": "Noten",
+          "url": "",
+          "children": [
+            {
+              "id": "klavier",
+              "name": "Klavier",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gitarre",
+              "name": "Gitarre",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gesang",
+              "name": "Gesang",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "orchester",
+              "name": "Orchester",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-noten",
+              "name": "Weitere Noten",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eintrittskarten-and-tickets",
+      "name": "Eintrittskarten & Tickets",
+      "url": "",
+      "children": [
+        {
+          "id": "konzerte",
+          "name": "Konzerte",
+          "url": "",
+          "children": [
+            {
+              "id": "rock",
+              "name": "Rock",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "pop",
+              "name": "Pop",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "klassik",
+              "name": "Klassik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "festivals",
+              "name": "Festivals",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-konzerte",
+              "name": "Weitere Konzerte",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "sport",
+          "name": "Sport",
+          "url": "",
+          "children": [
+            {
+              "id": "fu-ball",
+              "name": "Fußball",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "motorsport",
+              "name": "Motorsport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tennis",
+              "name": "Tennis",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "eishockey",
+              "name": "Eishockey",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-sporttickets",
+              "name": "Weitere Sporttickets",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "theater-and-musical",
+          "name": "Theater & Musical",
+          "url": "",
+          "children": [
+            {
+              "id": "theater",
+              "name": "Theater",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "musical",
+              "name": "Musical",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "oper",
+              "name": "Oper",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kabarett",
+              "name": "Kabarett",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-b-hnen",
+              "name": "Weitere Bühnen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "events",
+          "name": "Events",
+          "url": "",
+          "children": [
+            {
+              "id": "messen",
+              "name": "Messen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "comedy",
+              "name": "Comedy",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "show",
+              "name": "Show",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gala",
+              "name": "Gala",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-events",
+              "name": "Weitere Events",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kino",
+          "name": "Kino",
+          "url": "",
+          "children": [
+            {
+              "id": "premieren",
+              "name": "Premieren",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gutscheine",
+              "name": "Gutscheine",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "serien",
+              "name": "Serien",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kino",
+              "name": "Weitere Kino",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dienstleistungen",
+      "name": "Dienstleistungen",
+      "url": "",
+      "children": [
+        {
+          "id": "haus-and-garten",
+          "name": "Haus & Garten",
+          "url": "",
+          "children": [
+            {
+              "id": "reinigung",
+              "name": "Reinigung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gartenpflege",
+              "name": "Gartenpflege",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "umzug",
+              "name": "Umzug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "hausmeister",
+              "name": "Hausmeister",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-dienste-haus-and-garten",
+              "name": "Weitere Dienste Haus & Garten",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "auto-and-transport",
+          "name": "Auto & Transport",
+          "url": "",
+          "children": [
+            {
+              "id": "transport",
+              "name": "Transport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "umzug",
+              "name": "Umzug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kfz-service",
+              "name": "Kfz-Service",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "lieferung",
+              "name": "Lieferung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-auto-and-transport",
+              "name": "Weitere Auto & Transport",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "handwerk",
+          "name": "Handwerk",
+          "url": "",
+          "children": [
+            {
+              "id": "maler",
+              "name": "Maler",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "elektrik",
+              "name": "Elektrik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sanit-r",
+              "name": "Sanitär",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bau",
+              "name": "Bau",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-handwerk",
+              "name": "Weitere Handwerk",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "unterricht",
+          "name": "Unterricht",
+          "url": "",
+          "children": [
+            {
+              "id": "nachhilfe",
+              "name": "Nachhilfe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sprachen",
+              "name": "Sprachen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "musik",
+              "name": "Musik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "it",
+              "name": "IT",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiterer-unterricht",
+              "name": "Weiterer Unterricht",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "beauty",
+          "name": "Beauty",
+          "url": "",
+          "children": [
+            {
+              "id": "friseur",
+              "name": "Friseur",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kosmetik",
+              "name": "Kosmetik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "nagelstudio",
+              "name": "Nagelstudio",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "massage",
+              "name": "Massage",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-beauty",
+              "name": "Weitere Beauty",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "it-and-telekom",
+          "name": "IT & Telekom",
+          "url": "",
+          "children": [
+            {
+              "id": "support",
+              "name": "Support",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "webdesign",
+              "name": "Webdesign",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "netzwerk",
+              "name": "Netzwerk",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "reparatur",
+              "name": "Reparatur",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-it",
+              "name": "Weitere IT",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "weitere-dienstleistungen",
+          "name": "Weitere Dienstleistungen",
+          "url": "",
+          "children": [
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-angebote",
+              "name": "Weitere Angebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verschenken-and-tauschen",
+      "name": "Verschenken & Tauschen",
+      "url": "",
+      "children": [
+        {
+          "id": "verschenken",
+          "name": "Verschenken",
+          "url": "",
+          "children": [
+            {
+              "id": "m-bel",
+              "name": "Möbel",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "elektronik",
+              "name": "Elektronik",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kleidung",
+              "name": "Kleidung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-geschenke",
+              "name": "Weitere Geschenke",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "tauschen",
+          "name": "Tauschen",
+          "url": "",
+          "children": [
+            {
+              "id": "tausch-gegen",
+              "name": "Tausch gegen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "suche",
+              "name": "Suche",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "angebote",
+              "name": "Angebote",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-tauschangebote",
+              "name": "Weitere Tauschangebote",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unterricht-and-kurse",
+      "name": "Unterricht & Kurse",
+      "url": "",
+      "children": [
+        {
+          "id": "nachhilfe",
+          "name": "Nachhilfe",
+          "url": "",
+          "children": [
+            {
+              "id": "mathe",
+              "name": "Mathe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "deutsch",
+              "name": "Deutsch",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "englisch",
+              "name": "Englisch",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "naturwissenschaften",
+              "name": "Naturwissenschaften",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-nachhilfe",
+              "name": "Weitere Nachhilfe",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "sprachen",
+          "name": "Sprachen",
+          "url": "",
+          "children": [
+            {
+              "id": "englisch",
+              "name": "Englisch",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "deutsch",
+              "name": "Deutsch",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "spanisch",
+              "name": "Spanisch",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "franz-sisch",
+              "name": "Französisch",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-sprachen",
+              "name": "Weitere Sprachen",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "musikunterricht",
+          "name": "Musikunterricht",
+          "url": "",
+          "children": [
+            {
+              "id": "klavier",
+              "name": "Klavier",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gitarre",
+              "name": "Gitarre",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "gesang",
+              "name": "Gesang",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "schlagzeug",
+              "name": "Schlagzeug",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weiterer-musikunterricht",
+              "name": "Weiterer Musikunterricht",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "sport",
+          "name": "Sport",
+          "url": "",
+          "children": [
+            {
+              "id": "yoga",
+              "name": "Yoga",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "fitness",
+              "name": "Fitness",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kampfsport",
+              "name": "Kampfsport",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "tanzen",
+              "name": "Tanzen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-sportkurse",
+              "name": "Weitere Sportkurse",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kunst-and-gestaltung",
+          "name": "Kunst & Gestaltung",
+          "url": "",
+          "children": [
+            {
+              "id": "malen",
+              "name": "Malen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "fotografie",
+              "name": "Fotografie",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "design",
+              "name": "Design",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "handwerk",
+              "name": "Handwerk",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kunstkurse",
+              "name": "Weitere Kunstkurse",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "beruf-and-karriere",
+          "name": "Beruf & Karriere",
+          "url": "",
+          "children": [
+            {
+              "id": "coaching",
+              "name": "Coaching",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "bewerbung",
+              "name": "Bewerbung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "it",
+              "name": "IT",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "marketing",
+              "name": "Marketing",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-kurse",
+              "name": "Weitere Kurse",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachbarschaftshilfe",
+      "name": "Nachbarschaftshilfe",
+      "url": "",
+      "children": [
+        {
+          "id": "haushaltshilfe",
+          "name": "Haushaltshilfe",
+          "url": "",
+          "children": [
+            {
+              "id": "reinigung",
+              "name": "Reinigung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "einkauf",
+              "name": "Einkauf",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "w-sche",
+              "name": "Wäsche",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "kochen",
+              "name": "Kochen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-haushaltshilfe",
+              "name": "Weitere Haushaltshilfe",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "nachhilfe",
+          "name": "Nachhilfe",
+          "url": "",
+          "children": [
+            {
+              "id": "schule",
+              "name": "Schule",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sprachen",
+              "name": "Sprachen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "mathe",
+              "name": "Mathe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-nachhilfe",
+              "name": "Weitere Nachhilfe",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fahrdienste",
+          "name": "Fahrdienste",
+          "url": "",
+          "children": [
+            {
+              "id": "arztfahrten",
+              "name": "Arztfahrten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "begleitung",
+              "name": "Begleitung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "einkauf",
+              "name": "Einkauf",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstige-fahrdienste",
+              "name": "Sonstige Fahrdienste",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-fahrdienste",
+              "name": "Weitere Fahrdienste",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "begleitung",
+          "name": "Begleitung",
+          "url": "",
+          "children": [
+            {
+              "id": "spazierg-nge",
+              "name": "Spaziergänge",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "beh-rdeng-nge",
+              "name": "Behördengänge",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "arztbegleitung",
+              "name": "Arztbegleitung",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "freizeit",
+              "name": "Freizeit",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-begleitung",
+              "name": "Weitere Begleitung",
+              "url": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "sonstige-hilfe",
+          "name": "Sonstige Hilfe",
+          "url": "",
+          "children": [
+            {
+              "id": "reparaturen",
+              "name": "Reparaturen",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "aufbauhilfe",
+              "name": "Aufbauhilfe",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "garten",
+              "name": "Garten",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "sonstiges",
+              "name": "Sonstiges",
+              "url": "",
+              "children": []
+            },
+            {
+              "id": "weitere-hilfe",
+              "name": "Weitere Hilfe",
+              "url": "",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
