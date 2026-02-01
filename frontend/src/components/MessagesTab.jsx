@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from "react";
+﻿﻿import React, { useState, useEffect } from "react";
 
 const MessagesTab = () => {
   const [messages, setMessages] = useState([]);
@@ -7,19 +7,28 @@ const MessagesTab = () => {
   const [sending, setSending] = useState(false);
   const [syncing, setSyncing] = useState(false);
   const [lastSyncedAt, setLastSyncedAt] = useState(null);
+  const [syncNotice, setSyncNotice] = useState("");
+  const apiBase = process.env.REACT_APP_API_BASE_URL
+    ? process.env.REACT_APP_API_BASE_URL.replace(/\/$/, "")
+    : "";
+  const apiUrl = (path) => (apiBase ? `${apiBase}${path}` : path);
 
   useEffect(() => {
-    loadMessages({ withSync: true });
+    loadMessages({ withSync: true, showNotice: false });
   }, []);
 
-  const loadMessages = async ({ withSync = false } = {}) => {
+  const loadMessages = async ({ withSync = false, showNotice = false } = {}) => {
     if (withSync) {
       setSyncing(true);
     }
     try {
+      const existingIds = new Set(messages.map((message) => message.id));
+      if (showNotice) {
+        setSyncNotice("");
+      }
       const primaryUrl = withSync
-        ? "http://localhost:5000/api/messages/sync"
-        : "http://localhost:5000/api/messages";
+        ? apiUrl("/api/messages/sync")
+        : apiUrl("/api/messages");
       const response = await fetch(primaryUrl);
       if (!response.ok) {
         throw new Error(`Ответ сервера: ${response.status}`);
@@ -30,8 +39,17 @@ const MessagesTab = () => {
       }
       const data = await response.json();
       if (withSync) {
-        setMessages(data.messages || []);
+        const nextMessages = data.messages || [];
+        setMessages(nextMessages);
         setLastSyncedAt(data.syncedAt || new Date().toISOString());
+        if (showNotice) {
+          const newCount = nextMessages.filter((message) => !existingIds.has(message.id)).length;
+          setSyncNotice(
+            newCount > 0
+              ? `Найдено ${newCount} новых сообщений`
+              : "Обновлено - новых сообщений не найдено"
+          );
+        }
       } else {
         setMessages(data);
       }
@@ -39,7 +57,7 @@ const MessagesTab = () => {
       console.error("Ошибка загрузки сообщений:", error);
       if (withSync) {
         try {
-          const fallbackResponse = await fetch("http://localhost:5000/api/messages");
+          const fallbackResponse = await fetch(apiUrl("/api/messages"));
           if (!fallbackResponse.ok) {
             throw new Error(`Ответ сервера: ${fallbackResponse.status}`);
           }
@@ -58,7 +76,7 @@ const MessagesTab = () => {
 
   const markAsRead = async (messageId) => {
     try {
-      await fetch(`http://localhost:5000/api/messages/${messageId}/read`, {
+      await fetch(apiUrl(`/api/messages/${messageId}/read`), {
         method: "PUT"
       });
       
@@ -79,7 +97,7 @@ const MessagesTab = () => {
     
     setSending(true);
     try {
-      const response = await fetch("http://localhost:5000/api/messages/send", {
+      const response = await fetch(apiUrl("/api/messages/send"), {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -156,8 +174,20 @@ const MessagesTab = () => {
             }}>
               {messages.filter(m => m.unread).length} новых
             </span>
+            {syncNotice && (
+              <span style={{
+                padding: "4px 12px",
+                background: "rgba(15, 23, 42, 0.8)",
+                borderRadius: "10px",
+                fontSize: "12px",
+                color: "#e2e8f0",
+                border: "1px solid rgba(148,163,184,0.3)"
+              }}>
+                {syncNotice}
+              </span>
+            )}
             <button
-              onClick={() => loadMessages({ withSync: true })}
+              onClick={() => loadMessages({ withSync: true, showNotice: true })}
               disabled={syncing}
               style={{
                 padding: "6px 12px",
